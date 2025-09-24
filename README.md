@@ -1,4 +1,5 @@
-# T. Shinohara | AI Engineer - Computer Vision & Machine Learning
+# T. Shinohara 
+AI Engineer - Computer Vision & Machine Learning
 
 ### 👋 About Me
 深層学習（Deep Learning）、特にコンピュータービジョン技術を活用し、社会課題を解決するAIモデル・システムの研究開発に取り組むAIエンジニアです。
