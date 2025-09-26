@@ -10,7 +10,7 @@ AI Engineer - Computer Vision & Machine Learning
 これまでに培った物体検知やセグメンテーションの知見を活かし、悪天候や夜間といった厳しい条件下でも周囲の環境を正確に認識する、知覚（Perception）システムの高精度化に取り組んでいます。
 
 
-* **LinkedIn:** [takuto-shinohara](https://www.linkedin.com/in/takuto-shinohara-a324342bb/)
+* **LinkedIn:** [takuto-shinohara](https://www.linkedin.com/in/shinohara-takuto-5ab3a61aa/)
 * **Portfolio/Blog:** [Tshino118](https://qiita.com/Tshino118)
 * **Email:** shinohara [at] globalwalkers.co.jp
 
