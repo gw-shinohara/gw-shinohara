@@ -1,27 +1,28 @@
-# T. Shinohara 
+# T. Shinohara - 篠原 拓登
 AI Engineer - Computer Vision & Machine Learning
 
 ### 👋 About Me
 深層学習（Deep Learning）、特にコンピュータービジョン技術を活用し、社会課題を解決するAIモデル・システムの研究開発に取り組むAIエンジニアです。
 物体検知、セグメンテーション、姿勢推定などの技術を駆使し、セーフティ、アクセシビリティといった多様な分野のプロジェクトをリードしてきました。
-
 新しい技術の探求に強い興味があり、LLMや音声認識、ロボティクスといった周辺領域の知見も積極的に取り入れ、包括的なソリューション開発を得意としています。
 
+2025年現在は自動運転技術に、特に注力しています。
+これまでに培った物体検知やセグメンテーションの知見を活かし、悪天候や夜間といった厳しい条件下でも周囲の環境を正確に認識する、知覚（Perception）システムの高精度化に取り組んでいます。
+
+
 * **LinkedIn:** [takuto-shinohara](https://www.linkedin.com/in/takuto-shinohara-a324342bb/)
-
 * **Portfolio/Blog:** [Tshino118](https://qiita.com/Tshino118)
-
 * **Email:** shinohara [at] globalwalkers.co.jp
 
 ### 🛠️ Skills & Technologies
 
 | Category | Technologies | 
- | ----- | ----- | 
+| ----- | ----- | 
 | **Languages** | Python, C++, SQL | 
-| **Frameworks** | PyTorch, Ros・Ros2, Pandas, OpenCV, ONNX, Plotly, Streamlit, Hugging Face Transformers, Ollama| 
+| **Frameworks** | PyTorch, Ros・Ros2, OpenCV, ONNX, Pandas, Plotly, Streamlit, Hugging Face Transformers, Ollama| 
 | **Core Fields** | Computer Vision, Deep Learning, Machine Learning | 
 | **Expertise** | • 物体検知 (Object Detection)   • 姿勢推定 (Pose Estimation)   • 画像セグメンテーション (Image Segmentation)   • 画像検索 (Image Retrieval)   • 音声認識 (Speech Recognition) | 
-| **Tools & Infra** | Docker, Git, GitHub, Linux, AWS | 
+| **Tools & Infra** | Docker, Linux, AWS | 
 
 ### 🚀 Projects
 #### 1. セーフティ & アクセシビリティ分野 (Safety & Accessibility)
