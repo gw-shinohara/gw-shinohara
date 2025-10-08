@@ -1,14 +1,14 @@
 # Takuto Shinohara
-<table>
-	<thead>
-    	<tr>
-      		<th style="text-align:center">English</th>
-      		<th style="text-align:center"><a href="README_JP.md">日本語</a></th>
-    	</tr>
-  	</thead>
-</table>
-
 AI Engineer - Computer Vision & Machine Learning
+
+<div align="right">
+ <table><thead><tr>
+			<th style="text-align:center">English</th>
+			<th style="text-align:center"><a href="README_JP.md">日本語</a></th>
+ </tr></thead></table>
+</div>
+ 
+
 
 ### 👋 About Me
 
