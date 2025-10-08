@@ -1,4 +1,4 @@
-# T. Shinohara - 篠原 拓登
+# Takuto Shinohara - 篠原 拓登
 AI Engineer - Computer Vision & Machine Learning
 
 ### 👋 About Me
