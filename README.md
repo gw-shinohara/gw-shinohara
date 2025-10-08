@@ -1,78 +1,88 @@
-# Takuto Shinohara - 篠原 拓登
+# Takuto Shinohara
+
 AI Engineer - Computer Vision & Machine Learning
 
 ### 👋 About Me
-深層学習（Deep Learning）、特にコンピュータービジョン技術を活用し、社会課題を解決するAIモデル・システムの研究開発に取り組むAIエンジニアです。
-物体検知、セグメンテーション、姿勢推定などの技術を駆使し、セーフティ、アクセシビリティといった多様な分野のプロジェクトをリードしてきました。
-新しい技術の探求に強い興味があり、LLMや音声認識、ロボティクスといった周辺領域の知見も積極的に取り入れ、包括的なソリューション開発を得意としています。
 
-2025年現在は自動運転技術に、特に注力しています。
-これまでに培った物体検知やセグメンテーションの知見を活かし、悪天候や夜間といった厳しい条件下でも周囲の環境を正確に認識する、知覚（Perception）システムの高精度化に取り組んでいます。
+I am an AI engineer engaged in the research and development of AI models and systems that solve societal challenges, primarily utilizing deep learning with a special focus on computer vision technologies.<br>
+I have led projects in diverse fields such as safety and accessibility, leveraging techniques like object detection, segmentation, and pose estimation.<br>
+With a strong interest in exploring new technologies, I actively incorporate knowledge from related fields such as LLMs, speech recognition, and robotics to excel in developing comprehensive solutions.
 
+As of 2025, I am particularly focused on autonomous driving technology.<br>
+Leveraging my experience in object detection and segmentation, I am working on enhancing the precision of perception systems to accurately recognize the surrounding environment even under challenging conditions like adverse weather and at night.
 
 * **LinkedIn:** [takuto-shinohara](https://www.linkedin.com/in/shinohara-takuto-5ab3a61aa/)
+
 * **Portfolio/Blog:** [Tshino118](https://qiita.com/Tshino118)
-* **Email:** shinohara [at] globalwalkers.co.jp
+
+* **Email:** shinohara \[at\] globalwalkers.co.jp
 
 ### 🛠️ Skills & Technologies
 
 | Category | Technologies | 
-| ----- | ----- | 
+ | ----- | ----- | 
 | **Languages** | Python, C++, SQL | 
-| **Frameworks** | PyTorch, Ros・Ros2, OpenCV, ONNX, Pandas, Plotly, Streamlit, Hugging Face Transformers, Ollama| 
+| **Frameworks** | PyTorch, ROS/ROS2, OpenCV, ONNX, Pandas, Plotly, Streamlit, Hugging Face Transformers, Ollama | 
 | **Core Fields** | Computer Vision, Deep Learning, Machine Learning | 
-| **Expertise** | • 物体検知 (Object Detection)   • 姿勢推定 (Pose Estimation)   • 画像セグメンテーション (Image Segmentation)   • 画像検索 (Image Retrieval)   • 音声認識 (Speech Recognition) | 
+| **Expertise** | • Object Detection • Pose Estimation • Image Segmentation • Image Retrieval • Speech Recognition | 
 | **Tools & Infra** | Docker, Linux, AWS | 
 
 ### 🚀 Projects
-#### 1. セーフティ & アクセシビリティ分野 (Safety & Accessibility)
 
-人間の安全確保や生活の質の向上を目指したプロジェクトです。
+#### 1. Safety & Accessibility
 
-* **白杖検知AIモデルの開発**
+Projects aimed at ensuring human safety and improving quality of life.
 
-  * **目的:** 駅構内のカメラ映像から視覚障がい者が使用する白杖をリアルタイムに検知し、早期の声かけへの応用を目指す。
-  * **担当:** データセット構築、物体検知モデルの選定・学習・評価。
+* **Development of a White Cane Detection AI Model**
 
-* **遠距離対応 転倒検知AIの開発**
+  * **Objective:** To detect white canes used by visually impaired individuals in real-time from camera footage within train stations, with the goal of enabling early assistance.
 
-  * **目的:** 小さく不鮮明な映像から人物の転倒を検知するAIを開発。公共空間での応用を想定。
-  * **担当:** 転倒に対応した物体検知モデルの設計・実装。
+  * **Responsibilities:** Dataset creation, selection, training, and evaluation of the object detection model.
 
-* **ドローンとサーマル画像による夜間人物検知**
+* **Development of a Long-Range Fall Detection AI**
 
-  * **目的:** 夜間を想定し、ドローン搭載のサーマルカメラ映像から人物を検知するシステムを開発。
-  * **担当:** ドローン用SDKを用いたカメラ映像取得機能の設計・実装。データセット構築、物体検知モデルの選定・学習・評価。
+  * **Objective:** To develop an AI that detects falls from small and unclear video footage, intended for application in public spaces.
 
-* **姿勢評価用ソフトウェアの開発**
+  * **Responsibilities:** Designed and implemented an object detection model tailored for fall detection.
 
-  * **目的:** カメラ映像からリアルタイムに人体の骨格情報を抽出し、動作フォームの姿勢を定量的に評価・フィードバック。
-  * **担当:** GUI設計、姿勢推定APIとの連携、評価ロジックの実装。
+* **Nighttime Person Detection using Drones and Thermal Imaging**
 
-#### 2. 業務効率化分野 (Business Efficiency)
+  * **Objective:** To develop a system for detecting people at night from thermal camera footage captured by drones.
 
-開発業務の生産性向上に貢献したプロジェクトです。
+  * **Responsibilities:** Designed and implemented a camera footage acquisition function using a drone SDK. Responsible for dataset creation, and the selection, training, and evaluation of the object detection model.
 
-* **高速道路の類似破損画像検索AI**
+* **Development of Posture Evaluation Software**
 
-  * **目的:** 高速道路の点検で撮影された路面等の破損画像を、過去の膨大な事例データベースから類似度に基づいて高速に検索するAIを開発。
-  * **担当:** データセット構築、類似画像検索モデルの選定・学習・評価。GUI設計。
+  * **Objective:** To extract human skeletal information from camera footage in real-time to quantitatively evaluate and provide feedback on movement and posture.
 
-* **LLMを用いたアノテーション効率化 (Panoptic Segmentation)**
+  * **Responsibilities:** GUI design, integration with a pose estimation API, and implementation of the evaluation logic.
 
-  * **目的:** 大規模言語モデル（LLM）を活用し、画像内の物体と背景を同時に識別するPanoptic Segmentationのアノテーション作業を半自動化・効率化する。
-  * **担当:** データセット構築。セマンティックセグメンテーションモデル・インスタンスセグメンテーションモデルの選定・評価。
+#### 2. Business Efficiency
 
-#### 3. ソフトウェア & 機能開発 (Software & Feature Development)
+Projects that contributed to improving the productivity of development tasks.
 
-* **音声認識AIへのWake Word機能追加**
+* **Similar Damage Image Retrieval AI for Highways**
 
-  * **目的:** 特定の単語（ウェイクワード）をトリガーに起動する音声認識機能を実装。
-  * **担当:** Wake Word検出モデルの組込み、認識精度のチューニング。
+  * **Objective:** To develop an AI that rapidly searches a vast database of past cases for similar images of road surface damage taken during highway inspections.
 
-* **フェイクデータ編集ツールの作成**
+  * **Responsibilities:** Dataset creation, selection, training, and evaluation of the image retrieval model. Also responsible for GUI design.
 
-  * **目的:** AIの学習データ拡充のため、合成データ（フェイクデータ）を効率的に作成・加工する内部向けツールを開発。
-  * **担当:** GUIの実装。
- 
-  
+* **Annotation Efficiency Improvement for Panoptic Segmentation using LLMs**
+
+  * **Objective:** To semi-automate and streamline the annotation process for Panoptic Segmentation, which simultaneously identifies objects and backgrounds in images, by leveraging Large Language Models (LLMs).
+
+  * **Responsibilities:** Dataset creation. Selection and evaluation of semantic and instance segmentation models.
+
+#### 3. Software & Feature Development
+
+* **Addition of Wake Word Functionality to Speech Recognition AI**
+
+  * **Objective:** To implement a speech recognition function that activates upon detecting a specific trigger word (wake word).
+
+  * **Responsibilities:** Integration of the wake word detection model and tuning of its recognition accuracy.
+
+* **Creation of a Synthetic Data Editing Tool**
+
+  * **Objective:** To develop an internal tool for efficiently creating and editing synthetic data (fake data) to augment AI training datasets.
+
+  * **Responsibilities:** GUI implementation.
