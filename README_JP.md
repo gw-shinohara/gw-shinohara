@@ -1,6 +1,14 @@
 # Takuto Shinohara - 篠原 拓登
 AI Engineer - Computer Vision & Machine Learning
 
+<div align="right">
+ <table><thead><tr>
+			<th style="text-align:center"><a href="README.md">English</a></th>
+			<th style="text-align:center">日本語</th>
+ </tr></thead></table>
+</div>
+ 
+
 ### 👋 About Me
 深層学習（Deep Learning）、特にコンピュータービジョン技術を活用し、社会課題を解決するAIモデル・システムの研究開発に取り組むAIエンジニアです。
 物体検知、セグメンテーション、姿勢推定などの技術を駆使し、セーフティ、アクセシビリティといった多様な分野のプロジェクトをリードしてきました。
